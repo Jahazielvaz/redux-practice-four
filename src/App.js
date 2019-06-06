@@ -17,6 +17,6 @@ function App() {
   );
 }
 
-const userSwitch = () => store.dispatch(action);
+
 
 export default App;
