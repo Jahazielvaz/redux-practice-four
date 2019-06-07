@@ -1,6 +1,7 @@
 const action = {
   type: 'USER',
-  username: 'Chester Bennington'
+  username: 'Chester Bennington',
 }
+
 
 export default action;
